@@ -50,7 +50,7 @@ class Main {
             }
 
             //play again code
-            System.out.println("again? yes or no");
+            System.out.println("again? y/s");
             x = scan.next();
         } while (x.equalsIgnoreCase("y"));
 
